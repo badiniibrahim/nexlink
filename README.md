@@ -1,4 +1,4 @@
-## Building a Fullstack Blog App with React, NextJS, TailwindCSS & MongoDB
+## Building a Fullstack NexLink App with React, NextJS, TailwindCSS & MongoDB
 
 Full Stack MERN Next.js 13 NexLink App | React, Next JS, TypeScript, MongoDB
 
