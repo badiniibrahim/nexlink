@@ -21,6 +21,7 @@ Full Stack MERN Next.js 13 NexLink App | React, Next JS, TypeScript, MongoDB
   
 ## 🔐 Setup .env file
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY
+
 CLERK_SECRET_KEY
 NEXT_PUBLIC_CLERK_SIGN_IN_URL
 NEXT_PUBLIC_CLERK_SIGN_UP_URL
