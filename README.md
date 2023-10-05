@@ -3,11 +3,9 @@
 Full Stack MERN Next.js 13 NexLink App | React, Next JS, TypeScript, MongoDB
 
 <!-- Badges -->
-
 <a href="https://nexlink.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 
-
-# Technologies
+## Technologies
 - Next.js 13.4 with Server Side Rendering
 - MongoDB handling of complex schemas, multiple data population
 - Beautiful layouts with TailwindCSS
@@ -21,7 +19,7 @@ Full Stack MERN Next.js 13 NexLink App | React, Next JS, TypeScript, MongoDB
 - Manage forms with react hook form
 - Create reusable components
   
-# 🔐 Setup .env file
+## 🔐 Setup .env file
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY
 CLERK_SECRET_KEY
 NEXT_PUBLIC_CLERK_SIGN_IN_URL
@@ -33,11 +31,40 @@ UPLOADTHING_SECRET
 UPLOADTHING_APP_ID
 NEXT_CLERK_WEBHOOK_SECRET
 
-# Screenshot
+## Screenshot
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
 ![alt text](4.png)
+
+### :running: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/badiniibrahim/nexlink-app-with-next.js-13.git
+```
+
+Install dependencies
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+```bash
+  yarn install
+```
+
+## Getting Started
+
+Start the server
+First, run the development server:
+
+```bash
+  yarn run dev
+```
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 
 ### Learn More
 
