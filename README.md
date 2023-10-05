@@ -4,7 +4,7 @@ Full Stack MERN Next.js 13 NexLink App | React, Next JS, TypeScript, MongoDB
 
 <!-- Badges -->
 
-<a href="https://projects-seven-peach.vercel.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+<a href="https://nexlink.vercel.app/" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 
 
 # Technologies
